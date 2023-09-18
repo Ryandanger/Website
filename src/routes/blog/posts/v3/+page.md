@@ -1,7 +1,7 @@
 ---
 title: Announcing Files v3
 description: A design refresh, faster startup performance, support for previewing Office documents, & and speed graph for file operations.
-thumbnail: /blog-resources/v3/HeroImage.jpg
+thumbnail: /blog-resources/v3/Hero.jpg
 date: 7/20/2023
 author: files-community
 ---
