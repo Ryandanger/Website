@@ -39,6 +39,10 @@ Improving startup performance is one of our top priorities we'll continue to wor
 
 We're excited to introduce a Command Palette that lets you search and execute commands quickly and easily. You can access the Command Palette by pressing `ctrl` + `shift` + `p` on your keyboard, or by typing `>` into the address bar. The Command Palette will show you a list of available commands, or you can type in your own query to find the command you need.
 
+<figure>
+    <img src="/blog-resources/v3/CommandPalette.jpg" alt="Command Palette" />
+</figure>
+
 ### Rich previews for your Office documents
 
 In addition to support for previewing Office documents, we added support for previewing file formats with a registered shell preview handler.
