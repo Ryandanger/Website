@@ -31,16 +31,12 @@ When we set out to update the design, we wanted to ensure users would feel at ho
     <img src="/blog-resources/v3/Sidebar.jpg" alt="Redesigned sidebar" />
 </figure>
 
-### Keep Files in the background
+### Improved experience for file operations
 
-We added an option to keep Files open in the background when closing the last window. This option is enabled by default, but can be turned on/off from the advanced settings page.
-
-### Added a Command Palette
-
-We're excited to introduce a Command Palette that lets you search and execute commands quickly and easily. You can access the Command Palette by pressing `ctrl` + `shift` + `p` on your keyboard, or by typing `>` into the address bar. The Command Palette will show you a list of available commands, or you can type in your own query to find the command you need.
+You can now track the progress and speed of file operations in the Status Center with the new graph feature.
 
 <figure>
-    <img src="/blog-resources/v3/CommandPalette.jpg" alt="Command Palette" />
+    <img src="/blog-resources/v3/StatusCenter.jpg" alt="Updated status center with the speed graph" />
 </figure>
 
 ### Rich previews for your Office documents
@@ -51,13 +47,18 @@ In addition to support for previewing Office documents, we added support for pre
     <img src="/blog-resources/v3/OfficePreview.jpg" alt="Updated preview pane" />
 </figure>
 
-### Improved experience for file operations
+### Added a Command Palette
 
-You can now track the progress and speed of file operations in the Status Center with the new graph feature.
+We're excited to introduce a Command Palette that lets you search and execute commands quickly and easily. You can access the Command Palette by pressing `ctrl` + `shift` + `p` on your keyboard, or by typing `>` into the address bar. The Command Palette will show you a list of available commands, or you can type in your own query to find the command you need.
+
+### Keep Files in the background
+
+We added an option to keep Files open in the background when closing the last window. This option is enabled by default, but can be turned on/off from the advanced settings page.
 
 <figure>
-    <img src="/blog-resources/v3/StatusCenter.jpg" alt="Updated status center with the speed graph" />
+    <img src="/blog-resources/v3/CommandPalette.jpg" alt="Command Palette" />
 </figure>
+
 
 ## Changes and Improvements
 
