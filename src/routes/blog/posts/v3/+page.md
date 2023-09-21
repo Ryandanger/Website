@@ -76,11 +76,11 @@ Keyboard shortcuts are now displayed next to the context menu items to help incr
 
 ### Added support for opening shortcut files as another user
 
-Added support for opening shortcuts to exe files as another user.
+Added support for opening shortcuts targeting exe files as another user.
 
 ### Added support for additional archive formats
 
-Added support for browsing and extracting items from additional archive formats.
+Added support for browsing and extracting items from additional archive formats such as `gz`, `mcpack`, `mcworld`, `jar`, `lzh`, and `appxbundle`.
 
 ### Added support for elevated file operations
 
@@ -92,7 +92,23 @@ Folders in special locations that don't have a directory watcher will now refres
 
 ### Display error message when transferring files that are too large for FAT32
 
-An error message is now displayed when files cannot be transferred to drives formatted as FAT32, previously these file operations would fail without providing an explanation..
+An error message is now displayed when files cannot be transferred to drives formatted as FAT32, previously these file operations would fail without providing an explanation.
+
+### Removed the margin when using the compact spacing option
+
+We removed the margin from items in the details & columns layouts when using the compact spacing option.
+
+### Added a "What's new" popup
+
+We replaced the release notes flyout with a popup modal.
+
+### Added custom thumbnail when Files is the registered file handler for archives
+
+Files will now display a custom thumbnail when it's the registered handler for viewing archives.
+
+### Automatically update items when the date changes
+
+The date column will now automatically if the date changes.
 
 
 ### Conclusion
@@ -104,17 +120,3 @@ Thank you for using Files! 😊
 ---
 
 Download Files from our [download page](/download/).
-
-
-
-- Show BitLocker options in main menu for drives
-- Removed margin when using the Compact Spacing option
-- Scroll to the selected file when using "Open file location"
-- Updated the design of the Tags section in the Details Pane
-- Restored the status icon for the ongoing tasks button
-- Disabled keyboard shortcuts when renaming items
-- Automatically update items when the date changes
-- Lazy load Git properties for better performance
-- Load network icon in the sidebar instead of using a folder icon
-- Replaced the "What's new" flyout with a popup
-- Display custom icon when Files is the registered handler for archives
