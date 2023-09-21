@@ -33,7 +33,7 @@ When we set out to update the design, we wanted to ensure users would feel at ho
 
 ### Keep Files in the background
 
-Improving startup performance is one of our top priorities we'll continue to work on this in future updates. There are a number of reasons why progress has been slow, but in order to provide a quicker solution, we added an option to keep Files in the background when closing the last window. This option is enabled by default, but can be turned on/off from the advanced settings page.
+We added an option to keep Files open in the background when closing the last window. This option is enabled by default, but can be turned on/off from the advanced settings page.
 
 ### Added a Command Palette
 
