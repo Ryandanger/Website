@@ -37,7 +37,7 @@ Improving startup performance is one of our top priorities we'll continue to wor
 
 ### Added a Command Palette
 
-With hundreds of available features, it can be hard for to keep track of all the features and keyboard shortcuts. To help with this, we're excited to introduce a Command Palette where you search for and trigger commands. To access the command palette, you can use the `ctrl` + `shift` + `p` keyboard shortcut, or alternatively you can enter `>` into the address bar and start searching for a command. 
+We're excited to introduce a Command Palette that lets you search and execute commands quickly and easily. You can access the Command Palette by pressing `ctrl` + `shift` + `p` on your keyboard, or by typing `>` into the address bar. The Command Palette will show you a list of available commands, or you can type in your own query to find the command you need.
 
 ### Rich previews for your Office documents
 
