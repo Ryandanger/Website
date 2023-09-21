@@ -51,13 +51,13 @@ In addition to support for previewing Office documents, we added support for pre
 
 We're excited to introduce a Command Palette that lets you search and execute commands quickly and easily. You can access the Command Palette by pressing `ctrl` + `shift` + `p` on your keyboard, or by typing `>` into the address bar. The Command Palette will show you a list of available commands, or you can type in your own query to find the command you need.
 
-### Keep Files in the background
-
-We added an option to keep Files open in the background when closing the last window. This option is designed to improve the startup performance but can be turned on/off from the advanced settings page.
-
 <figure>
     <img src="/blog-resources/v3/CommandPalette.jpg" alt="Command Palette" />
 </figure>
+
+### Keep Files in the background
+
+We added an option to keep Files open in the background when closing the last window. This option is designed to improve the startup performance but can be turned on/off from the advanced settings page.
 
 
 ## Changes and Improvements
