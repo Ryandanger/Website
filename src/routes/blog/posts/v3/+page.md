@@ -6,9 +6,9 @@ date: 7/20/2023
 author: files-community
 ---
 
-It's hard to believe that it's two years since the launch of v2. Our mission with Files is to build the best file manager for Windows, and we're proud to be building it out in the open so everyone can participate. User feedback helps shape the features we work on, & the bug reports on GitHub help to make Files more reliable. We're keenly aware that we wouldn't have gotten to this point without the support of our dedicated users and the open source community, and we want to extend a thank you to everyone who's been involved with the project until this point.
+It's hard to believe that it's two years since the launch of v2. Our mission with Files is to build the best file manager for Windows, and we're proud to be building it out in the open so everyone can participate and provide feedback. We're keenly aware that we wouldn't have gotten to this point without the support of our dedicated users and the open source community, and we want to extend a thank you to everyone who's been involved with the project until this point.
 
-Starting today, v3 is now available to download. If you already have Files, there will be a notification on the toolbar to install the update. Otherwise, you can download Files for free from our [download page](/download/). You can also purchase Files on the [Microsoft Store](ms-windows-store://pdp/?ProductId=9nghp3dx8hdx&cid=FilesWebsite) to help support the project.
+Starting today, v3 is available to download. If you already have Files, there will be a notification on the toolbar to install the update. Otherwise, you can download Files for free from our [download page](/download/). You can also purchase Files on the [Microsoft Store](ms-windows-store://pdp/?ProductId=9nghp3dx8hdx&cid=FilesWebsite) to help support the project.
 
 **TL;DR:** Files v3 includes a refreshed design, faster startup performance, a command palette, support for previewing Offices documents, a speed graph for file operations, and more. Continue reading to learn more about these changes.
 
