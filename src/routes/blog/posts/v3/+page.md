@@ -53,7 +53,7 @@ We're excited to introduce a Command Palette that lets you search and execute co
 
 ### Keep Files in the background
 
-We added an option to keep Files open in the background when closing the last window. This option is enabled by default, but can be turned on/off from the advanced settings page.
+We added an option to keep Files open in the background when closing the last window. This option is designed to improve the startup performance but can be turned on/off from the advanced settings page.
 
 <figure>
     <img src="/blog-resources/v3/CommandPalette.jpg" alt="Command Palette" />
