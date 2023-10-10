@@ -110,6 +110,9 @@ Files will now display a custom thumbnail when it's the registered handler for v
 
 The date column will now automatically if the date changes.
 
+### Added support for opening Git root in VS Code
+
+The "open in VS Code" feature will now let you choose between opening the current directory & root in VS Code.   
 
 ### Conclusion
 
