@@ -114,6 +114,22 @@ The date column will now automatically if the date changes.
 
 The "open in VS Code" feature will now let you choose between opening the current directory & root in VS Code.   
 
+### Improved performance when opening Settings 
+
+We fixed a performance issues that would cause the CPU to spike when opening Settings. 
+
+### Updated the `Ctrl` + `Shift` + `N` shortcut
+
+We repurposed the `Ctrl` + `Shift` + `N` shortcut to create a new folder.
+
+### Added support for unblocking downloaded files
+
+We added an option in the Properties window to unblock downloaded files.
+
+### Added Support for Proton Drive
+
+Proton Drive will now be displayed in the cloud drive section when you have the client app installed on your device.
+
 ### Conclusion
 
 As always, we appreciate your feedback and suggestions on how we improve Files. You can reach us through our GitHub issues page: https://github.com/files-community/Files/issues.
