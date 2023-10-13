@@ -118,7 +118,7 @@ The "open in VS Code" feature will now let you choose between opening the curren
 
 We fixed a performance issues that would cause the CPU to spike when opening Settings. 
 
-### Updated the `Ctrl` + `Shift` + `N` shortcut
+### Added a shortcut for creating new folders
 
 We repurposed the `Ctrl` + `Shift` + `N` shortcut to create a new folder.
 
