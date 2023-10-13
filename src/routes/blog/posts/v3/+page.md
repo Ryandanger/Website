@@ -2,7 +2,7 @@
 title: Announcing Files v3
 description: A design refresh, faster startup performance, support for previewing Office documents, & and speed graph for file operations.
 thumbnail: /blog-resources/v3/Hero.jpg
-date: 7/20/2023
+date: 11/20/2023
 author: files-community
 ---
 
@@ -126,7 +126,7 @@ We repurposed the `Ctrl` + `Shift` + `N` shortcut to create a new folder.
 
 We added an option in the Properties window to unblock downloaded files.
 
-### Added Support for Proton Drive
+### Added support for Proton Drive
 
 Proton Drive will now be displayed in the cloud drive section when you have the client app installed on your device.
 
