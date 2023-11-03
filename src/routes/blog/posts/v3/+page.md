@@ -6,9 +6,9 @@ date: 7/20/2023
 author: files-community
 ---
 
-It's hard to believe that it's two years since the launch of v2. Our mission with Files is to build the best file manager for Windows, and we're proud to be building it out in the open so everyone can participate and provide feedback. We're keenly aware that we wouldn't have gotten to this point without the support of our dedicated users and the open source community, and we want to extend a thank you to everyone who's been involved with the project until this point.
+It's just a little over two years since the launch of v2, and the feedback from the community has encouraged us to keep on improving. Our mission with Files is to build the best file manager for Windows, and we're proud to be building it out in the open so everyone can participate and provide feedback. We're keenly aware that we wouldn't have gotten to this point without the support of our dedicated users and the open source community, and we want to extend a thank you to everyone who's been involved with the project until this point.
 
-Starting today, v3 is available to download. If you already have Files, there will be a notification on the toolbar to install the update. Otherwise, you can download Files for free from our [download page](/download/). You can also purchase Files on the [Microsoft Store](ms-windows-store://pdp/?ProductId=9nghp3dx8hdx&cid=FilesWebsite) to help support the project.
+We're excited to announce that starting today, v3 is now available. If you already have Files, there should be a notification on the toolbar to install the update. Otherwise, you can download Files for free from our [download page](/download/). You can also purchase Files on the [Microsoft Store](ms-windows-store://pdp/?ProductId=9nghp3dx8hdx&cid=FilesWebsite) to help support the project.
 
 **TL;DR:** Files v3 includes a refreshed design, faster startup performance, a command palette, support for previewing Offices documents, a speed graph for file operations, and more. Continue reading to learn more about these changes.
 
@@ -57,7 +57,7 @@ We're excited to introduce a Command Palette that lets you search and execute co
 
 ### Keep Files in the background
 
-We added an option to keep Files open in the background when closing the last window. This option is designed to improve the startup performance but can be turned on/off from the advanced settings page.
+We added an option to keep Files open in the background when closing the last window. This option is designed to improve the startup performance but can be turned on/off from the advanced settings page. Please be advised the using this option will use system resources even when the app is in the background.
 
 
 ## Changes and Improvements
