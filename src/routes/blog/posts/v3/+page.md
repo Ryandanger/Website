@@ -2,7 +2,7 @@
 title: Announcing Files v3
 description: A design refresh, faster startup performance, support for previewing Office documents, & and speed graph for file operations.
 thumbnail: /blog-resources/v3/Hero.jpg
-date: 11/20/2023
+date: 7/20/2023
 author: files-community
 ---
 
@@ -62,73 +62,28 @@ We added an option to keep Files open in the background when closing the last wi
 
 ## Changes and Improvements
 
-### Added support for renaming network drives
-
-Added support for renaming network drives from the properties window.
-
-### Theme names are now localized in the settings dialog
-
-The theme names in the settings dialog are now translated to make it more accessible in different localizations.
-
-### Keyboard shortcuts are now displayed in the right click menu
-
-Keyboard shortcuts are now displayed next to the context menu items to help increase their discoverability.
-
-### Added support for opening shortcut files as another user
-
-Added support for opening shortcuts targeting exe files as another user.
-
-### Added support for additional archive formats
-
-Added support for browsing and extracting items from additional archive formats such as `gz`, `mcpack`, `mcworld`, `jar`, `lzh`, and `appxbundle`.
-
-### Added support for elevated file operations
-
-File operations requiring admin access will now prompt to elevate the process.
-
-### Auto refresh folder when changes are made
-
-Folders in special locations that don't have a directory watcher will now refresh when changes are made.
-
-### Display error message when transferring files that are too large for FAT32
-
-An error message is now displayed when files cannot be transferred to drives formatted as FAT32, previously these file operations would fail without providing an explanation.
-
-### Removed the margin when using the compact spacing option
-
-We removed the margin from items in the details & columns layouts when using the compact spacing option.
-
-### Added a "What's new" popup
-
-We replaced the release notes flyout with a popup modal.
-
-### Added custom thumbnail when Files is the registered file handler for archives
-
-Files will now display a custom thumbnail when it's the registered handler for viewing archives.
-
-### Automatically update items when the date changes
-
-The date column will now automatically if the date changes.
-
-### Added support for opening Git root in VS Code
-
-The "open in VS Code" feature will now let you choose between opening the current directory & root in VS Code.   
-
-### Improved performance when opening Settings 
-
-We fixed a performance issues that would cause the CPU to spike when opening Settings. 
-
-### Added a shortcut for creating new folders
-
-We repurposed the `Ctrl` + `Shift` + `N` shortcut to create a new folder.
-
-### Added support for unblocking downloaded files
-
-We added an option in the Properties window to unblock downloaded files.
-
-### Added support for Proton Drive
-
-Proton Drive will now be displayed in the cloud drive section when you have the client app installed on your device.
+- Added support for renaming network drives
+- Theme names are now localized in the settings dialog
+- Keyboard shortcuts are now displayed in the right click menu
+- Added support for opening shortcut files as another user
+- Added support for additional archive formats including `gz`, `mcpack`, `mcworld`, `jar`, `lzh`, and `appxbundle`
+- Added support for elevated file operations
+- Folders in special locations that don't have a directory watcher will now refresh when changes are made
+- Display error message when transferring files that are too large for FAT32
+- Removed the margin when using the compact spacing option
+- Added a "What's new" popup that can be viewed after an update
+- Files will now display a custom thumbnail when it's the registered handler for viewing archives.
+- Automatically update items when the date changes
+- Added support for canceling tab tear off by pressing the esc key
+- Added support for copying the paths of multiple items together
+- Improved the design and performance of the startup options in settings
+- Added `ctrl` + `shift` + `n` shortcut to create a new folder
+- Added support for unblocking downloaded folders from the properties window
+- Improved the icon resolution on tabs
+- Added support for Proton Drive
+- Added file operation support for FTP
+- Added support for formatting drives from the properties window
+- Added support to switch between items using arrow keys in the conflicts dialog
 
 ### Conclusion
 
